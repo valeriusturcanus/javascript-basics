@@ -22,7 +22,7 @@ this is a set of previous tasks from previous chalanges
 
 // I should use preppend instead of append so the name will be before <ul> tag
 //because <ul> tag is empty the page look as it shows in the result.
-var skills = ["Html", "Css", "Javascript",'Python', 'jQuery','Grunt','GitHub', 'Bootstrap','Single variable Calculus'];
+var skills = ["Html", "Css", "Javascript",'Python', 'jQuery','Grunt','GitHub', 'Bootstrap'];
 var bio = {
     "name": "Valeriu turcanu ",
     "role": "Web Developer",
